@@ -7,6 +7,7 @@ man-db
 manpages-posix
 manpages-dev
 manpages-posix-dev
+less
 
 # Download tools
 curl
